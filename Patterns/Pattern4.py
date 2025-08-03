@@ -1,8 +1,5 @@
 '''
-Example:
-Input: ‘N’ = 3
-
-Output:
+n = 3
 1
 2 2
 3 3 3

@@ -1,7 +1,5 @@
-'''Example:
-Input: ‘N’ = 3
-
-Output:
+'''
+n = 3
 1
 1 2
 1 2 3
